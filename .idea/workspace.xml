@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f95ec7ff-f5bf-4b12-a377-81c7518c1ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoYT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/01-VariaveisMutaveiseImutaveis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02-TiposVariaveis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Concatenação.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/04-OperadoresAritméticos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/05-OperadoresRelacionais.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/06-EstruturaCondicional-If-Else.kt" afterDir="false" />
+    <list default="true" id="f95ec7ff-f5bf-4b12-a377-81c7518c1ea6" name="Changes" comment="Teste Git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07-OperadoresLógicos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/07-OperadoresLógicos.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._06_EstruturaCondicional_If_ElseKt">
-    <configuration name="_02_TiposVariaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_TiposVariaveisKt" />
-      <module name="CursoYT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._07_OperadoresLógicosKt">
     <configuration name="_03_ConcatenaçãoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_03_ConcatenaçãoKt" />
       <module name="CursoYT" />
@@ -89,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_07_OperadoresLógicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_OperadoresLógicosKt" />
+      <module name="CursoYT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._07_OperadoresLógicosKt" />
         <item itemvalue="Kotlin._06_EstruturaCondicional_If_ElseKt" />
         <item itemvalue="Kotlin._05_OperadoresRelacionaisKt" />
         <item itemvalue="Kotlin._04_OperadoresAritméticosKt" />
         <item itemvalue="Kotlin._03_ConcatenaçãoKt" />
-        <item itemvalue="Kotlin._02_TiposVariaveisKt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +95,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668080516145</updated>
     </task>
+    <task id="LOCAL-00001" summary="Teste Git">
+      <created>1668106745404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668106745404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste Git">
+      <created>1668107249495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668107249495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Teste Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste Git" />
   </component>
 </project>
