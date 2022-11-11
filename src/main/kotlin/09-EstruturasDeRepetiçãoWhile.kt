@@ -1,7 +1,7 @@
 fun main(){
 
 
-    println("*** Estruturas de Repetição ***")
+    println("*** Estruturas de Repetição While ***")
 
     //While Enquanto//
     var listaCompras = arrayOf("Arroz","Feijão","Batata","Uva","Banana","Carne","Leite","Ovos","Frango")
