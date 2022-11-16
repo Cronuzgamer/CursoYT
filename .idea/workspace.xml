@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f95ec7ff-f5bf-4b12-a377-81c7518c1ea6" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11-EstruturaDeRepetiçãoWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/JogoAdivinhação.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListaClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09-EstruturasDeRepetiçãoWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/09-EstruturasDeRepetiçãoWhile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10-EstruturaDeRepetiçãoFor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/10-EstruturaDeRepetiçãoFor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11-EstruturaDeRepetiçãoWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11-EstruturaDeRepetiçãoWhen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668135249461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update">
+      <created>1668136102436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668136102436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
